@@ -1,0 +1,7 @@
+{
+    "require": {
+        "sergeytsalkov/meekrodb": "^2.4",
+        "chillerlan/php-qrcode": "^4.3",
+        "rakit/validation": "^1.4"
+    }
+}
